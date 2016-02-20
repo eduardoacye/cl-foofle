@@ -4,7 +4,7 @@ Este repositorio contiene el código de la biblioteca `cl-foofle`. El objetivo d
 
 Los pendientes a corto plazo son:
 - Crear un motor de búsqueda para páginas web
-    * Tener una funcionalidad equivalente a la del proyecto antecesor (máquinas de búsqueda)[https://github.com/uson-ia/maquinas-busqueda]
+    * Tener una funcionalidad equivalente a la del proyecto antecesor [máquinas de búsqueda](https://github.com/uson-ia/maquinas-busqueda)
     * Interfaz gráfica para realizar búsquedas en la base de datos
 
 ## Requisitos de instalación
